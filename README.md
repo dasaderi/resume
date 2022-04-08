@@ -1,2 +1,2 @@
-# resume
-A repository to share my CV/resume
+# Daniela Saderi CV/Resumet
+This is a repository to share my CV/resume
